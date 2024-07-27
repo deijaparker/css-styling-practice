@@ -43,3 +43,8 @@ body {
     overflow: auto;
     opacity: 0.9;
   }
+
+  .spectrum p {
+    color: #FFFFFF;
+    text-align: left;
+  }
