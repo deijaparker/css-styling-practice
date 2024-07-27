@@ -112,3 +112,10 @@ h1 {
     line-height: .2em;
     font-weight: 300;
   }
+
+  /* Page elements */
+ul {
+    margin: 0 auto;
+    padding: 0;
+    width: 75%;
+  }
